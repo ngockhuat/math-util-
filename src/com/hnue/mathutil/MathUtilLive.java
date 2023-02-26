@@ -26,6 +26,8 @@ public class MathUtilLive {
 // thêm code sau lần đầu tiên code lên server 11:49
         System.out.println("0! = 1; actual: " + MathUtil.getFactorial(0));
         System.out.println("3! = 6; actual: " + MathUtil.getFactorial(3));
+        System.out.println("0! = 1; actual: " + MathUtil.getFactorial(0));
+        System.out.println("0! = 1; actual: " + MathUtil.getFactorial(0));
 
     }
 
