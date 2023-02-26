@@ -22,8 +22,10 @@ public class MathUtilLive {
         // if expected == actual. hàm ngon trong tình huống này
 //        MathUtil.getFactorial(-5);// ném ngoại lệ rồi, ai hiểu đưa cà chớn
         System.out.println("6! = 720; actual: " + MathUtil.getFactorial(6));
-        System.out.println("0! = 1; actual: " + MathUtil.getFactorial(0)) ;
-        
+        System.out.println("0! = 1; actual: " + MathUtil.getFactorial(0));
+// thêm code sau lần đầu tiên code lên server 11:49
+        System.out.println("0! = 1; actual: " + MathUtil.getFactorial(0));
+        System.out.println("3! = 6; actual: " + MathUtil.getFactorial(3));
 
     }
 
